@@ -1,0 +1,17 @@
+{
+  "name": "aic-tailwind-scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aic-larry/aic-tailwind-scss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aic-larry/aic-tailwind-scss/issues"
+  },
+  "homepage": "https://github.com/aic-larry/aic-tailwind-scss#readme"
+}
