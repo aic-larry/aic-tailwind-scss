@@ -1,14 +1,14 @@
 {
   "name": "aic-tailwind-scss",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "css-in-html-class",
   "main": "./src/index.scss",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aic-larry/aic-tailwind-scss.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "lerryann",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aic-larry/aic-tailwind-scss/issues"
