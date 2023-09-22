@@ -1,5 +1,3 @@
-@import './variables.scss';
-
 @mixin text-line($i) {
   word-break: break-all;
   text-overflow: -o-ellipsis-lastline;
