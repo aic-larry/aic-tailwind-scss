@@ -13,10 +13,6 @@
     @include text-line($i);
   }
 }
-//尺寸数组
-$size_name_list: "xs", "sm", "base", "lg", "xl", "2xl", "3xl", "4xl", "5xl";
-$text_size_list: 12, 13, 14, 16, 18, 24, 36, 48, 56;//圆角
-$rounded_size_list: 5, 8, 10, 12, 16, 24, 36, 48, 56;//字体大小
 .mx-auto {
 	margin-left: auto;
 	margin-right: auto;

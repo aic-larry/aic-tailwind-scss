@@ -1,6 +1,6 @@
 {
   "name": "aic-tailwind-scss",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "css-in-html-class",
   "main": "./src/index.scss",
   "repository": {
