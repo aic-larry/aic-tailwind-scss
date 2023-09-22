@@ -1,4 +1,4 @@
-### install
+## install
 Using npm:
 ```
 npm install aic-tailwind-scss sass sass-loader --s-d
@@ -8,7 +8,7 @@ or using yarn:
 ```
 yarn add aic-tailwind-scss sass sass-loader -d
 ```
-### config
+## config
 `main.js：`
 ```
 import Vue from 'vue'
@@ -31,10 +31,10 @@ module.exports = defineConfig({
     loaderOptions: {
       sass: {
         additionalData: `
-            @import "aic-tailwind-scss/variables"; // 导入默认变量文件
+            @import "aic-tailwind-scss/variables"; // default variables
           `,
         // additionalData: `
-        //     @import "~@/variables.scss"; // 导入自定义变量文件
+        //     @import "~@/variables.scss"; // customer variables
         //   `,
       },
     }
@@ -43,7 +43,7 @@ module.exports = defineConfig({
 }
 
 ```
-### variables
+## variables
 `src/variables.scss：`
 ```
 $num: 0; //循环计数器
@@ -54,7 +54,7 @@ $pixis: "rpx"; //单位
 $color_name_list: "blue", "green", "yellow", "red", "gray";
 $color_list: #007aff, #4cd964, #f0ad4e, #dd524d, #636e72;
 ```
-### usage
+## usage
 ```
 <div class="w-full mt-20 mb-40 text-lg">
   hello aic!

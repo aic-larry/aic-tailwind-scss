@@ -7,9 +7,15 @@
     "type": "git",
     "url": "git+https://github.com/aic-larry/aic-tailwind-scss.git"
   },
-  "keywords": [],
+  "keywords": [
+    "css",
+    "scss",
+    "sass",
+    "vue",
+    "css-in-html"
+  ],
   "author": "lerryann",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/aic-larry/aic-tailwind-scss/issues"
   },
